@@ -1,0 +1,13 @@
+{
+    
+    "name": "alexandre-php-moderno/mvc",
+    "description": "Mvc do curso Php Moderno-Alexandre",
+    "require": {
+		"symfony/http-foundation": "*"
+	},
+    "autoload": {
+    	"psr-4": {
+    		"PhpModerno\\Query\\": "src"
+    	}
+    }
+}
